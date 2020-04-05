@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Start RecyclerView App</string>
+    <string name="titleTv">Title</string>
+    <string name="desc">Description</string>
+    <string name="imageText">image</string>
+</resources>
